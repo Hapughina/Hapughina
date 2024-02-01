@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alina Hapughina
 - 👀 I’m interested in web-development
-- 📫 How to reach me: Instagram: https://www.instagram.com/alina_hapughina/ Telegram: t.me/Alina_Hapughina
+- 📫 How to reach me: Instagram: https://www.instagram.com/alina_hapughina/ Telegram: https://t.me/Alina_Hapughina
 - ⚡ Fun fact: I want to get a diver certificate
 
 <!---
